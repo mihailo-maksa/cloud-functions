@@ -1,9 +1,6 @@
 import * as functions from "firebase-functions";
 import * as admin from "firebase-admin";
 
-// open source this MERN starter pack project & publish it on the NPM:
-// MERN starter pack (upload it as an NPM package mern-starter-pack)
-
 import * as fs from "fs-extra";
 import { tmpdir } from "os";
 import { join } from "path";
